@@ -1,2 +1,1 @@
-# tindog
-this is asimple webiste usig bootstrap
+TinDog Starting Files
